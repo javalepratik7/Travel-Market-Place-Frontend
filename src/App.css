@@ -1,0 +1,119 @@
+.box {
+    border: 5px solid white;
+    color: black;
+    position: relative;
+    width: 300px;
+    height: 320px;
+    background: white; 
+    border-radius: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  }
+  
+  .box1::before {
+    content: '';
+    position: absolute;
+    width: 60%;
+    height: 195%;
+    background:rgb(0, 250, 63);
+    border-radius: 20px;
+    transform: rotate(315deg);
+  }
+  .box1:hover::before {
+    animation:animation 4s linear backwards infinite ;
+  }
+  .box1::after{
+    content: '';
+    position: absolute;
+    background-color: white;
+    inset: 6px;
+    border-radius: 12px;
+  }
+  
+  .box2::before {
+    content: '';
+    position: absolute;
+    width: 60%;
+    height: 195%;
+    background:blue;
+    border-radius: 20px;
+    transform: rotate(315deg);
+  }
+  .box2:hover::before {
+    animation:animation 4s linear forwards infinite ;
+  }
+  .box2::after{
+    content: '';
+    position: absolute;
+    background-color: white;
+    inset: 6px;
+    border-radius: 12px;
+  }
+  
+  .box3::before {
+    content: '';
+    position: absolute;
+    width: 60%;
+    height: 195%;
+    background:rgb(136, 136, 245);
+    border-radius: 20px;
+    transform: rotate(315deg);
+  }
+  .box3:hover::before {
+    animation:animation 4s linear forwards infinite ;
+  }
+  .box3::after{
+    content: '';
+    position: absolute;
+    background-color: white;
+    inset: 6px;
+    border-radius: 12px;
+  }
+  
+  .box4::before {
+    content: '';
+    position: absolute;
+    width: 60%;
+    height: 195%;
+    background:rgb(96, 253, 96);
+    border-radius: 20px;
+    transform: rotate(315deg);
+  }
+  .box4:hover::before {
+    animation:animation 4s linear forwards infinite ;
+  }
+  .box4::after{
+    content: '';
+    position: absolute;
+    background-color: white;
+    inset: 6px;
+    border-radius: 12px;
+  }
+  @keyframes animation {
+    0%{
+      transform: rotate(315deg);
+    }
+    100%{
+      transform: rotate(0deg);
+    }
+  }
+  .innerBox{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 200px;
+    font-weight: bold;
+    text-align: center;
+    z-index: 1;
+  }
+  .innerBox h1{
+    font-size: 26px;
+    margin: 15px 1px;
+  }
+  .innerBox h2{
+    font-size: 14px;
+    font-weight: 550;
+  }

@@ -1,0 +1,778 @@
+[
+    {
+      "id": 1,
+      "city": "Pune",
+      "packaname":"pune",
+      "company": "Pune Tour hello",
+      "route": "Pune - Goa",
+      "price": 4999,
+      "images": [
+        "https://tse1.mm.bing.net/th?id=OIP.VJ7j7gbLPeEkt9PUmhBUpwHaDL&pid=Api&P=0&h=180",
+        "https://tse2.mm.bing.net/th?id=OIP.EWg_DqbDMSY6PNu8lZRwXwHaEx&pid=Api&P=0&h=180",
+        "https://tse2.mm.bing.net/th?id=OIP.sL3q30DOLqnMNehTiqUJGAHaE8&pid=Api&P=0&h=180",
+        "https://tse2.mm.bing.net/th?id=OIP.GwsjJTzrsCgo3r5wbO_zUAHaEK&pid=Api&P=0&h=180"
+
+       
+      ],
+      "duration": "3 Days / 2 Nights",
+      "highlights": ["Explore Pune's Historical Sites", "Relax at Mulshi Lake", "Visit Sinhagad Fort"],
+      "activities": ["Sightseeing", "Adventure Trails", "Nature Walks"],
+      "package_details": "Enjoy a scenic and adventurous trip to Pune, exploring its historical landmarks, lakes, and forts.",
+      "popular": true,
+      "select_Transport":"car"
+    },
+    {
+      "id": 2,
+      "city": "Pune",
+      "company": "Pune Tour Packages",
+      "route": "Pune - Mahabaleshwar",
+      "price": 5499,
+      "images": [
+        "https://www.fabhotels.com/blog/wp-content/uploads/2018/11/1000x650-252.jpg",
+        "https://www.treebo.com/blog/wp-content/uploads/2018/01/The-ISKCON-Bangalore.jpg"
+      ],
+      "duration": "4 Days / 3 Nights",
+      "highlights": ["Visit Mapro Garden", "Explore Venna Lake", "Trek to Wilson Point"],
+      "activities": ["Sightseeing", "Photography", "Boating"],
+      "package_details": "Explore the scenic hill station of Mahabaleshwar, famous for its views, lakes, and strawberry farms.",
+      "popular": true,
+      "select_Transport":"car"
+    },
+    {
+      "id": 3,
+      "city": "Pune",
+      "company": "Pune Tour Packages",
+      "route": "Pune - Lonavala",
+      "price": 3999,
+      "images": [
+        "https://www.mistay.in/travel-blog/content/images/2023/03/KOLKATA.jpg",
+        "https://www.fabhotels.com/blog/wp-content/uploads/2018/11/1000x650-252.jpg"
+      ],
+      "duration": "2 Days / 1 Night",
+      "highlights": ["Visit Tiger’s Leap", "Explore Bhushi Dam", "Explore Karla Caves"],
+      "activities": ["Sightseeing", "Trekking", "Photography"],
+      "package_details": "A quick getaway to Lonavala, exploring beautiful viewpoints, ancient caves, and relaxing spots.",
+      "popular": true,
+      "select_Transport":"car"
+    },
+    {
+      "id": 4,
+      "city": "Pune",
+      "company": "Pune Tour Packages",
+      "route": "Pune - Alibaug",
+      "price": 3999,
+      "images": [
+        "https://www.treebo.com/blog/wp-content/uploads/2018/01/The-ISKCON-Bangalore.jpg",
+        "https://www.mistay.in/travel-blog/content/images/2023/03/KOLKATA.jpg"
+      ],
+      "duration": "3 Days / 2 Nights",
+      "highlights": ["Relax at Alibaug Beach", "Visit Kolaba Fort", "Explore Mandwa Beach"],
+      "activities": ["Beach Relaxation", "Cultural Exploration", "Photography"],
+      "package_details": "Enjoy a peaceful beach vacation in Alibaug with fort visits, beach walks, and relaxation.",
+      "popular": true,
+      "select_Transport":"car"
+    },
+    {
+      "id": 5,
+      "city": "Pune",
+      "company": "Pune Tour Packages",
+      "route": "Pune - Lavasa",
+      "price": 4499,
+      "images": [
+        "https://www.fabhotels.com/blog/wp-content/uploads/2018/11/1000x650-252.jpg",
+        "https://princetravels.net/wp-content/uploads/2020/04/1520580692_1520497807_33012551555_74155cad39_k.jpg.jpg.jpg"
+      ],
+      "duration": "2 Days / 1 Night",
+      "highlights": ["Explore Lavasa Lake", "Relax at Dasve Viewpoint", "Trek to Lavasa Hills"],
+      "activities": ["Sightseeing", "Boating", "Nature Walks"],
+      "package_details": "Relax and unwind in Lavasa, a beautiful hill station near Pune, offering picturesque landscapes and adventure activities.",
+      "popular": true,
+      "select_Transport":"car"
+    },
+    {
+      "id": 6,
+      "city": "Mumbai",
+      "company": "Mumbai Tour Packages",
+      "route": "Mumbai - Goa",
+      "price": 6999,
+      "images": [
+        "https://www.fabhotels.com/blog/wp-content/uploads/2018/11/1000x650-252.jpg",
+        "https://www.tripsavvy.com/thmb/pAlZ4kx0tM9HFLmgkYbqMlfxaok=/2116x1417/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-846359134-5b515328c9e77c003738e40c.jpg"
+      ],
+      "duration": "4 Days / 3 Nights",
+      "highlights": ["Visit Gateway of India", "Explore Marine Drive", "Relax at Juhu Beach"],
+      "activities": ["City Tour", "Shopping at Colaba Causeway", "Nightlife Exploration"],
+      "package_details": "Discover Mumbai’s vibrant culture, famous landmarks, and exciting nightlife with this all-inclusive package.",
+      "popular": true,
+      "select_Transport":"car"
+    },
+    {
+      "id": 7,
+      "city": "Mumbai",
+      "company": "Mumbai Tour Packages",
+      "route": "Mumbai - Lonavala",
+      "price": 4999,
+      "images": [
+        "https://www.tripsavvy.com/thmb/pAlZ4kx0tM9HFLmgkYbqMlfxaok=/2116x1417/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-846359134-5b515328c9e77c003738e40c.jpg",
+        "https://static-blog.treebo.com/blog/wp-content/uploads/2018/01/The-ISKCON-Bangalore.jpg"
+      ],
+      "duration": "2 Days / 1 Night",
+      "highlights": ["Visit Tiger’s Leap", "Explore Bhushi Dam", "Explore Lonavala Market"],
+      "activities": ["Sightseeing", "Trekking", "Shopping"],
+      "package_details": "A quick, fun-filled trip to Lonavala from Mumbai, visiting popular spots and exploring the market.",
+      "popular": true,
+      "select_Transport":"car"
+    },
+    {
+      "id": 8,
+      "city": "Mumbai",
+      "company": "Mumbai Tour Packages",
+      "route": "Mumbai - Alibaug",
+      "price": 4999,
+      "images": [
+        "https://www.fabhotels.com/blog/wp-content/uploads/2018/11/1000x650-252.jpg",
+        "https://www.treebo.com/blog/wp-content/uploads/2018/01/The-ISKCON-Bangalore.jpg"
+      ],
+      "duration": "3 Days / 2 Nights",
+      "highlights": ["Relax at Alibaug Beach", "Visit Kolaba Fort", "Explore Mandwa Beach"],
+      "activities": ["Beach Relaxation", "Cultural Exploration", "Photography"],
+      "package_details": "Enjoy a peaceful beach vacation in Alibaug with fort visits, beach walks, and relaxation.",
+      "popular": true,
+      "select_Transport":"car"
+    },
+    {
+      "id": 9,
+      "city": "Mumbai",
+      "company": "Mumbai Tour Packages",
+      "route": "Mumbai - Nashik",
+      "price": 6499,
+      "images": [
+        "https://www.treebo.com/blog/wp-content/uploads/2018/01/The-ISKCON-Bangalore.jpg",
+        "https://www.fabhotels.com/blog/wp-content/uploads/2018/11/1000x650-252.jpg"
+      ],
+      "duration": "3 Days / 2 Nights",
+      "highlights": ["Visit Sula Vineyards", "Explore Trimbakeshwar Temple", "Trek to Pandav Leni"],
+      "activities": ["Sightseeing", "Wine Tasting", "Cultural Exploration"],
+      "package_details": "Take a relaxing getaway to Nashik, known for its vineyards and spiritual sites.",
+      "popular": true,
+      "select_Transport":"plane"
+    },
+    {
+      "id": 10,
+      "city": "Mumbai",
+      "company": "Mumbai Tour Packages",
+      "route": "Mumbai - Pune",
+      "price": 5499,
+      "images": [
+        "https://www.treebo.com/blog/wp-content/uploads/2018/01/The-ISKCON-Bangalore.jpg",
+        "https://www.fabhotels.com/blog/wp-content/uploads/2018/11/1000x650-252.jpg"
+      ],
+      "duration": "2 Days / 1 Night",
+      "highlights": ["Visit Aga Khan Palace", "Explore Osho Ashram", "Enjoy Lonavala’s Natural Beauty"],
+      "activities": ["Sightseeing", "Trekking", "Cultural Exploration"],
+      "package_details": "A beautiful weekend getaway combining the culture and nature of Pune with the vibrance of Mumbai.",
+      "popular": true,
+      "select_Transport":"train"
+    },
+    {
+      "id": 11,
+      "city": "Delhi",
+      "company": "Delhi Tour Packages",
+      "route": "Delhi - Agra - Jaipur",
+      "price": 5999,
+      "images": [
+        "https://static.cnbctv18.com/v3/images/thumb.png",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/India_Gate_%28New_Delhi%29.jpg/800px-India_Gate_%28New_Delhi%29.jpg"
+      ],
+      "duration": "4 Days / 3 Nights",
+      "highlights": ["Visit Red Fort", "Explore Qutub Minar", "Enjoy Sunset at India Gate"],
+      "activities": ["Cultural Exploration", "Photography", "Shopping"],
+      "package_details": "Explore Delhi's historical wonders and vibrant culture while visiting iconic landmarks.",
+      "popular": true,
+      "select_Transport":"plane"
+    },
+    {
+      "id": 12,
+      "city": "Delhi",
+      "company": "Delhi Tour Packages",
+      "route": "Delhi - Agra",
+      "price": 4999,
+      "images": [
+        "https://www.tourmyindia.com/blog/wp-content/uploads/2020/02/Delhi-Agra.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Taj_Mahal_-_front_view.jpg/800px-Taj_Mahal_-_front_view.jpg"
+      ],
+      "duration": "2 Days / 1 Night",
+      "highlights": ["Visit Taj Mahal", "Explore Agra Fort", "Sunrise at Yamuna River"],
+      "activities": ["Sightseeing", "Photography", "Cultural Exploration"],
+      "package_details": "A quick trip from Delhi to Agra to witness the iconic Taj Mahal and other famous monuments.",
+      "popular": true,
+      "select_Transport":"plane"
+    },
+    {
+      "id": 13,
+      "city": "Delhi",
+      "company": "Delhi Tour Packages",
+      "route": "Delhi - Jaipur",
+      "price": 6499,
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Jaipur_Amer_Fort_2017.jpg/800px-Jaipur_Amer_Fort_2017.jpg",
+        "https://www.indianholiday.com/blog/wp-content/uploads/2020/02/Hawa-Mahal.jpg"
+      ],
+      "duration": "3 Days / 2 Nights",
+      "highlights": ["Visit Amer Fort", "Explore Hawa Mahal", "Shop in Johari Bazaar"],
+      "activities": ["Sightseeing", "Cultural Exploration", "Shopping"],
+      "package_details": "Experience the royal heritage of Jaipur with its majestic forts, palaces, and bazaars.",
+      "popular": true,
+      "select_Transport":"plane"
+    },
+    {
+      "id": 14,
+      "city": "Delhi",
+      "company": "Delhi Tour Packages",
+      "route": "Delhi - Rishikesh",
+      "price": 5499,
+      "images": [
+        "https://www.exploreyourindia.com/wp-content/uploads/2018/09/Rishikesh-view.jpg",
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Rishikesh_Bharat_Mandir_2017.jpg/800px-Rishikesh_Bharat_Mandir_2017.jpg"
+      ],
+      "duration": "3 Days / 2 Nights",
+      "highlights": ["Visit Laxman Jhula", "Explore Rishikesh Temples", "Yoga and Meditation"],
+      "activities": ["Adventure Sports", "Yoga", "Sightseeing"],
+      "package_details": "A rejuvenating trip to Rishikesh, combining adventure, spirituality, and scenic beauty.",
+      "popular": true,
+      "select_Transport":"plane"
+    },
+    {
+      "id": 15,
+      "city": "Delhi",
+      "company": "Delhi Tour Packages",
+      "route": "Delhi - Amritsar",
+      "price": 5999,
+      "images": [
+        "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Golden_Temple%2C_Amritsar.jpg/800px-Golden_Temple%2C_Amritsar.jpg",
+        "https://www.amritsartourism.com/wp-content/uploads/2020/03/amritsar-tour-packages.jpg"
+      ],
+      "duration": "3 Days / 2 Nights",
+      "highlights": ["Visit Golden Temple", "Explore Jallianwala Bagh", "Shopping in Amritsar Markets"],
+      "activities": ["Cultural Exploration", "Sightseeing", "Shopping"],
+      "package_details": "A spiritual journey to Amritsar, experiencing its rich culture and iconic Golden Temple.",
+      "popular": true,
+      "select_Transport":"plane"
+    },
+    
+        {
+          "id": 16,
+          "city": "Kolkata",
+          "company": "Kolkata Tour Packages",
+          "route": "Kolkata - Sundarbans",
+          "price": 6999,
+          "images": [
+            "https://upload.wikimedia.org/wikipedia/commons/a/a9/Sundarbans-1.jpg",
+            "https://www.kolkatabengalinfo.com/wp-content/uploads/2020/05/sundarbans-tour.jpg"
+          ],
+          "duration": "4 Days / 3 Nights",
+          "highlights": ["Explore Sundarbans Tiger Reserve", "Visit the Watch Towers", "Boat Ride in the River"],
+          "activities": ["Wildlife Safari", "Bird Watching", "Boat Tour"],
+          "package_details": "Embark on a thrilling adventure through the Sundarbans, one of the largest mangrove forests in the world.",
+          "popular": true,
+          "select_Transport":"plane"
+        },
+        {
+          "id": 17,
+          "city": "Kolkata",
+          "company": "Kolkata Tour Packages",
+          "route": "Kolkata - Darjeeling",
+          "price": 6499,
+          "images": [
+            "https://upload.wikimedia.org/wikipedia/commons/4/47/Darjeeling_tea_gardens.jpg",
+            "https://static.indiatourism.com/wp-content/uploads/2019/12/Darjeeling-Winter.jpg"
+          ],
+          "duration": "4 Days / 3 Nights",
+          "highlights": ["Visit Tiger Hill", "Explore Batasia Loop", "Tea Gardens Tour"],
+          "activities": ["Sightseeing", "Tea Tasting", "Shopping"],
+          "package_details": "Discover the mesmerizing hill station of Darjeeling, famous for its scenic views, tea gardens, and historical sites.",
+          "popular": true,
+          "select_Transport":"plane"
+        },
+        {
+          "id": 18,
+          "city": "Kolkata",
+          "company": "Kolkata Tour Packages",
+          "route": "Kolkata - Shantiniketan",
+          "price": 4499,
+          "images": [
+            "https://upload.wikimedia.org/wikipedia/commons/1/14/Shantiniketan_Town.jpg",
+            "https://static.wikimedia.org/wikipedia/commons/4/44/Visva-Bharati%2C_Shantiniketan.jpg"
+          ],
+          "duration": "2 Days / 1 Night",
+          "highlights": ["Explore Rabindra Bhavan", "Visit Uttarayan Complex", "Experience the Peaceful Environment"],
+          "activities": ["Cultural Exploration", "Art Appreciation", "Photography"],
+          "package_details": "A peaceful retreat in Shantiniketan, home to the famous poet Rabindranath Tagore, offering cultural experiences and relaxation.",
+          "popular": true,
+          "select_Transport":"plane"
+        },
+        {
+          "id": 19,
+          "city": "Kolkata",
+          "company": "Kolkata Tour Packages",
+          "route": "Kolkata - Digha",
+          "price": 4999,
+          "images": [
+            "https://www.kolkatabengalinfo.com/wp-content/uploads/2020/05/digha-tour.jpg",
+            "https://upload.wikimedia.org/wikipedia/commons/d/d7/Digha_Beach.jpg"
+          ],
+          "duration": "3 Days / 2 Nights",
+          "highlights": ["Relax at Digha Beach", "Visit Udaipur Beach", "Explore the Marine Aquarium"],
+          "activities": ["Beach Relaxation", "Water Sports", "Photography"],
+          "package_details": "A relaxing coastal vacation at Digha, one of West Bengal's most popular beaches.",
+          "popular": true,
+          "select_Transport":"plane"
+        },
+        {
+          "id": 20,
+          "city": "Kolkata",
+          "company": "Kolkata Tour Packages",
+          "route": "Kolkata - Kalimpong",
+          "price": 5999,
+          "images": [
+            "https://upload.wikimedia.org/wikipedia/commons/a/a4/Kalimpong_Hill.jpg",
+            "https://www.kalimpong.com/wp-content/uploads/2019/11/Kalimpong_Town.jpg"
+          ],
+          "duration": "3 Days / 2 Nights",
+          "highlights": ["Visit Durpin Dara", "Explore Zang Dhok Palri Phodang", "Relax at Kali Mandir"],
+          "activities": ["Sightseeing", "Nature Walks", "Photography"],
+          "package_details": "A serene trip to Kalimpong, perfect for nature lovers and those looking to explore the foothills of the Himalayas.",
+          "popular": true,
+          "select_Transport":"plane"
+        },
+        {
+          "id": 21,
+          "city": "Goa",
+          "company": "Goa Tour Packages",
+          "route": "Goa - North Goa",
+          "price": 4999,
+          "images": [
+            "https://upload.wikimedia.org/wikipedia/commons/0/08/Calangute_Beach_2013.jpg",
+            "https://upload.wikimedia.org/wikipedia/commons/a/a2/Candolim_Beach%2C_North_Goa%2C_India.jpg"
+          ],
+          "duration": "3 Days / 2 Nights",
+          "highlights": ["Relax at Baga Beach", "Explore Anjuna Market", "Visit Fort Aguada"],
+          "activities": ["Beach Relaxation", "Water Sports", "Shopping"],
+          "package_details": "A fun-filled trip to North Goa, where you can explore beaches, markets, and enjoy the vibrant nightlife.",
+          "popular": true,
+          "select_Transport":"plane"
+        },
+        {
+          "id": 22,
+          "city": "Goa",
+          "company": "Goa Tour Packages",
+          "route": "Goa - South Goa",
+          "price": 5999,
+          "images": [
+            "https://upload.wikimedia.org/wikipedia/commons/3/33/Vasco_da_Gama_%28Goa%29.jpg",
+            "https://www.touristlink.com/media/18900/quiet-south-goa-beach.jpg"
+          ],
+          "duration": "4 Days / 3 Nights",
+          "highlights": ["Relax at Palolem Beach", "Explore Colva Beach", "Visit Cabo de Rama Fort"],
+          "activities": ["Beach Relaxation", "Sightseeing", "Water Sports"],
+          "package_details": "A peaceful trip to South Goa, perfect for relaxation and experiencing less crowded beaches.",
+          "popular": true,
+          "select_Transport":"train"
+        },
+        {
+          "id": 23,
+          "city": "Goa",
+          "company": "Goa Tour Packages",
+          "route": "Goa - Dudhsagar Falls",
+          "price": 6499,
+          "images": [
+            "https://upload.wikimedia.org/wikipedia/commons/7/75/Dudhsagar_falls_1.jpg",
+            "https://upload.wikimedia.org/wikipedia/commons/9/9f/Dudhsagar_Falls_View.JPG"
+          ],
+          "duration": "3 Days / 2 Nights",
+          "highlights": ["Trek to Dudhsagar Falls", "Visit Bhagwan Mahavir Wildlife Sanctuary", "Wildlife Safari"],
+          "activities": ["Trekking", "Nature Walk", "Photography"],
+          "package_details": "Adventure awaits as you trek to the famous Dudhsagar Falls, surrounded by lush forests and wildlife.",
+          "popular": true,
+          "select_Transport":"car"
+        },
+        {
+          "id": 24,
+          "city": "Goa",
+          "company": "Goa Tour Packages",
+          "route": "Goa - Dudhsagar - North Goa",
+          "price": 6999,
+          "images": [
+            "https://upload.wikimedia.org/wikipedia/commons/7/75/Dudhsagar_falls_1.jpg",
+            "https://upload.wikimedia.org/wikipedia/commons/0/08/Calangute_Beach_2013.jpg"
+          ],
+          "duration": "5 Days / 4 Nights",
+          "highlights": ["Visit Dudhsagar Falls", "Explore Calangute Beach", "Party at Baga Beach"],
+          "activities": ["Sightseeing", "Water Sports", "Trekking"],
+          "package_details": "A complete Goa experience, combining the best of both North and South Goa along with an adventurous visit to Dudhsagar Falls.",
+          "popular": true,
+          "select_Transport":"train"
+        },
+        {
+          "id": 25,
+          "city": "Goa",
+          "company": "Goa Tour Packages",
+          "route": "Goa - Old Goa",
+          "price": 5499,
+          "images": [
+            "https://upload.wikimedia.org/wikipedia/commons/0/08/Calangute_Beach_2013.jpg",
+            "https://upload.wikimedia.org/wikipedia/commons/a/a0/Old_Goa_Church.jpg"
+          ],
+          "duration": "2 Days / 1 Night",
+          "highlights": ["Visit Basilica of Bom Jesus", "Explore Sé Cathedral", "Enjoy the peace at Old Goa churches"],
+          "activities": ["Sightseeing", "Cultural Exploration", "Photography"],
+          "package_details": "A cultural and historical trip to explore the churches and monuments of Old Goa, a UNESCO World Heritage Site.",
+          "popular": true,
+          "select_Transport":"train"
+        },
+            {
+              "id": 26,
+              "city": "Bangalore",
+              "company": "Bangalore Tour Packages",
+              "route": "Bangalore - Coorg",
+              "price": 4999,
+              "images": [
+                "https://upload.wikimedia.org/wikipedia/commons/0/02/Coorg_Tourism.jpg",
+                "https://upload.wikimedia.org/wikipedia/commons/5/5c/Coorg_District.jpg"
+              ],
+              "duration": "3 Days / 2 Nights",
+              "highlights": ["Visit Abbey Falls", "Explore Madikeri Fort", "Coffee Plantation Tour"],
+              "activities": ["Nature Walk", "Sightseeing", "Photography"],
+              "package_details": "A refreshing retreat to Coorg, also known as the 'Scotland of India', offering scenic views and coffee plantation tours.",
+              "popular": true,
+              "select_Transport":"train"
+            },
+            {
+              "id": 27,
+              "city": "Bangalore",
+              "company": "Bangalore Tour Packages",
+              "route": "Bangalore - Chikmagalur",
+              "price": 5999,
+              "images": [
+                "https://upload.wikimedia.org/wikipedia/commons/5/52/Chikmagalur.jpg",
+                "https://upload.wikimedia.org/wikipedia/commons/6/64/Chikmagalur_Coffee_Plantations.jpg"
+              ],
+              "duration": "3 Days / 2 Nights",
+              "highlights": ["Visit Mullayanagiri", "Explore Baba Budangiri", "Coffee Tour"],
+              "activities": ["Trekking", "Nature Walk", "Coffee Tasting"],
+              "package_details": "Discover the peaceful hill station of Chikmagalur, famous for its coffee estates and scenic landscapes.",
+              "popular": true,
+              "select_Transport":"train"
+            },
+            {
+              "id": 28,
+              "city": "Bangalore",
+              "company": "Bangalore Tour Packages",
+              "route": "Bangalore - Hampi",
+              "price": 6499,
+              "images": [
+                "https://upload.wikimedia.org/wikipedia/commons/c/ca/Hampi_5.jpg",
+                "https://upload.wikimedia.org/wikipedia/commons/7/7d/Hampi_Karnataka.jpg"
+              ],
+              "duration": "3 Days / 2 Nights",
+              "highlights": ["Visit Virupaksha Temple", "Explore Stone Chariot", "Visit Hampi Bazaar"],
+              "activities": ["Cultural Exploration", "Sightseeing", "Photography"],
+              "package_details": "A trip to the UNESCO World Heritage Site of Hampi, known for its ancient ruins and historical monuments.",
+              "popular": true,
+              "select_Transport":"train"
+            },
+            {
+              "id": 29,
+              "city": "Bangalore",
+              "company": "Bangalore Tour Packages",
+              "route": "Bangalore - Nandi Hills",
+              "price": 3999,
+              "images": [
+                "https://upload.wikimedia.org/wikipedia/commons/3/34/Nandi_Hills_Karnataka.jpg",
+                "https://upload.wikimedia.org/wikipedia/commons/9/9b/Nandi_Hills_View.jpg"
+              ],
+              "duration": "2 Days / 1 Night",
+              "highlights": ["Sunrise at Nandi Hills", "Explore Nandi Temple", "Visit Bhoga Nandeeshwara Temple"],
+              "activities": ["Trekking", "Photography", "Sightseeing"],
+              "package_details": "A refreshing getaway to Nandi Hills, offering scenic views and a peaceful atmosphere just outside Bangalore.",
+              "popular": true,
+              "select_Transport":"train"
+            },
+            {
+              "id": 30,
+              "city": "Bangalore",
+              "company": "Bangalore Tour Packages",
+              "route": "Bangalore - Kabini",
+              "price": 7999,
+              "images": [
+                "https://upload.wikimedia.org/wikipedia/commons/c/cb/Kabini_River.jpg",
+                "https://upload.wikimedia.org/wikipedia/commons/3/38/Kabini_Wildlife.jpg"
+              ],
+              "duration": "4 Days / 3 Nights",
+              "highlights": ["Kabini Wildlife Safari", "Visit Nagarhole National Park", "Boat Ride in Kabini River"],
+              "activities": ["Safari", "Bird Watching", "Nature Walk"],
+              "package_details": "Experience the wild beauty of Kabini with a thrilling wildlife safari, bird watching, and nature exploration.",
+              "popular": true,
+              "select_Transport":"train"
+            },
+            {
+              "id": 31,
+              "city": "Chennai",
+              "company": "Chennai Tour Packages",
+              "route": "Chennai - Mahabalipuram",
+              "price": 4999,
+              "images": [
+                "https://upload.wikimedia.org/wikipedia/commons/6/69/Mahabalipuram_temple.jpg",
+                "https://upload.wikimedia.org/wikipedia/commons/3/37/Shore_Temple_Mahabalipuram.jpg"
+              ],
+              "duration": "3 Days / 2 Nights",
+              "highlights": ["Visit Shore Temple", "Explore Arjuna's Penance", "Bask in the Beaches of Mahabalipuram"],
+              "activities": ["Sightseeing", "Beach Relaxation", "Photography"],
+              "package_details": "Explore the rich historical and cultural heritage of Mahabalipuram, a UNESCO World Heritage Site with stunning temples and beaches.",
+              "popular": true,
+              "select_Transport":"train"
+            },
+            {
+              "id": 32,
+              "city": "Chennai",
+              "company": "Chennai Tour Packages",
+              "route": "Chennai - Pondicherry",
+              "price": 5499,
+              "images": [
+                "https://upload.wikimedia.org/wikipedia/commons/7/72/Pondicherry_Sunrise.jpg",
+                "https://upload.wikimedia.org/wikipedia/commons/5/55/Pondicherry_Seaside.jpg"
+              ],
+              "duration": "4 Days / 3 Nights",
+              "highlights": ["Visit Aurobindo Ashram", "Explore French Quarters", "Relax at Serenity Beach"],
+              "activities": ["Sightseeing", "Cultural Exploration", "Beach Relaxation"],
+              "package_details": "A peaceful retreat to Pondicherry, where French heritage meets the natural beauty of beaches and spiritual sites.",
+              "popular": true,
+              "select_Transport":"train"
+            },
+            {
+              "id": 33,
+              "city": "Chennai",
+              "company": "Chennai Tour Packages",
+              "route": "Chennai - Kanchipuram",
+              "price": 3999,
+              "images": [
+                "https://upload.wikimedia.org/wikipedia/commons/4/45/Kanchipuram_Kailasanathar_Temple.jpg",
+                "https://upload.wikimedia.org/wikipedia/commons/7/73/Kanchipuram_Kamakshi_Temple.jpg"
+              ],
+              "duration": "2 Days / 1 Night",
+              "highlights": ["Visit Kailasanathar Temple", "Explore Kamakshi Amman Temple", "Discover Kanchipuram Silk Saree"],
+              "activities": ["Cultural Exploration", "Shopping", "Photography"],
+              "package_details": "A trip to Kanchipuram, the city of thousand temples, renowned for its temples and silk sarees.",
+              "popular": true,
+              "select_Transport":"train"
+            },
+            {
+              "id": 34,
+              "city": "Chennai",
+              "company": "Chennai Tour Packages",
+              "route": "Chennai - Ooty",
+              "price": 6499,
+              "images": [
+                "https://upload.wikimedia.org/wikipedia/commons/d/d7/Ooty_Hill_Station.jpg",
+                "https://upload.wikimedia.org/wikipedia/commons/6/64/Ooty_Lake.jpg"
+              ],
+              "duration": "4 Days / 3 Nights",
+              "highlights": ["Visit Botanical Gardens", "Explore Ooty Lake", "Ride the Nilgiri Mountain Railway"],
+              "activities": ["Sightseeing", "Boat Ride", "Trekking"],
+              "package_details": "A tranquil escape to Ooty, a popular hill station known for its lakes, gardens, and pleasant climate.",
+              "popular": true,
+              "select_Transport":"train"
+            },
+            {
+              "id": 35,
+              "city": "Chennai",
+              "company": "Chennai Tour Packages",
+              "route": "Chennai - Yelagiri",
+              "price": 3999,
+              "images": [
+                "https://upload.wikimedia.org/wikipedia/commons/3/38/Yelagiri_Tourism.jpg",
+                "https://upload.wikimedia.org/wikipedia/commons/f/fd/Yelagiri_Hills.jpg"
+              ],
+              "duration": "2 Days / 1 Night",
+              "highlights": ["Visit Punganoor Lake", "Explore Swamimalai Hills", "Enjoy Yelagiri Nature Park"],
+              "activities": ["Trekking", "Nature Walk", "Sightseeing"],
+              "package_details": "A refreshing trip to Yelagiri Hills, known for its natural beauty and tranquility.",
+              "popular": true,
+              "select_Transport":"train"
+            },
+                {
+                  "id": 36,
+                  "city": "Hyderabad",
+                  "company": "Hyderabad Tour Packages",
+                  "route": "Hyderabad - Ramoji Film City",
+                  "price": 5999,
+                  "images": [
+                    "https://upload.wikimedia.org/wikipedia/commons/f/fd/Ramoji_Film_City.jpg",
+                    "https://upload.wikimedia.org/wikipedia/commons/e/e2/Ramoji_Film_City_Gate.jpg"
+                  ],
+                  "duration": "3 Days / 2 Nights",
+                  "highlights": ["Visit Ramoji Film City", "Explore Movie Studios", "Enjoy Theme Parks"],
+                  "activities": ["Sightseeing", "Entertainment", "Photography"],
+                  "package_details": "A fun-filled trip to Ramoji Film City, the world's largest integrated film city with exciting activities and theme parks.",
+                  "popular": true,
+                  "select_Transport":"train"
+                },
+                {
+                  "id": 37,
+                  "city": "Hyderabad",
+                  "company": "Hyderabad Tour Packages",
+                  "route": "Hyderabad - Warangal",
+                  "price": 4999,
+                  "images": [
+                    "https://upload.wikimedia.org/wikipedia/commons/c/c5/Warangal_Fort.jpg",
+                    "https://upload.wikimedia.org/wikipedia/commons/5/52/Kakatiya_Arch_Warangal.jpg"
+                  ],
+                  "duration": "3 Days / 2 Nights",
+                  "highlights": ["Visit Warangal Fort", "Explore Thousand Pillar Temple", "Discover Ramappa Temple"],
+                  "activities": ["Cultural Exploration", "Sightseeing", "Photography"],
+                  "package_details": "Step back in time with a cultural exploration of Warangal's historic forts and temples.",
+                  "popular": true,
+                  "select_Transport":"train"
+                },
+                {
+                  "id": 38,
+                  "city": "Hyderabad",
+                  "company": "Hyderabad Tour Packages",
+                  "route": "Hyderabad - Pochampally",
+                  "price": 3999,
+                  "images": [
+                    "https://upload.wikimedia.org/wikipedia/commons/1/18/Pochampally_village_in_Andhra_Pradesh.jpg",
+                    "https://upload.wikimedia.org/wikipedia/commons/a/ab/Pochampally_Ikat_dyeing.jpg"
+                  ],
+                  "duration": "2 Days / 1 Night",
+                  "highlights": ["Ikat Weaving Workshop", "Explore Pochampally Village", "Visit Pochampally Silk Weaving"],
+                  "activities": ["Cultural Tour", "Weaving Demonstration", "Shopping"],
+                  "package_details": "A fascinating trip to Pochampally village, known for its traditional Ikat weaving and vibrant silk fabrics.",
+                  "popular": true,
+                  "select_Transport":"train"
+                },
+                {
+                  "id": 39,
+                  "city": "Hyderabad",
+                  "company": "Hyderabad Tour Packages",
+                  "route": "Hyderabad - Nagarjuna Sagar",
+                  "price": 4999,
+                  "images": [
+                    "https://upload.wikimedia.org/wikipedia/commons/c/c7/Nagarjuna_Sagar.jpg",
+                    "https://upload.wikimedia.org/wikipedia/commons/0/0b/Nagarjuna_Sagar_Dam.jpg"
+                  ],
+                  "duration": "2 Days / 1 Night",
+                  "highlights": ["Visit Nagarjuna Sagar Dam", "Explore Ethipothala Waterfalls", "Cruise in Nagarjuna Lake"],
+                  "activities": ["Sightseeing", "Nature Walk", "Photography"],
+                  "package_details": "A serene escape to Nagarjuna Sagar, known for its impressive dam, scenic views, and tranquil surroundings.",
+                  "popular": true,
+                  "select_Transport":"train"
+                },
+                {
+                  "id": 40,
+                  "city": "Hyderabad",
+                  "company": "Hyderabad Tour Packages",
+                  "route": "Hyderabad - Bijapur",
+                  "price": 6499,
+                  "images": [
+                    "https://upload.wikimedia.org/wikipedia/commons/a/a1/Bijapur_Grand_Mosque.jpg",
+                    "https://upload.wikimedia.org/wikipedia/commons/1/10/Asar_Mahal.jpg"
+                  ],
+                  "duration": "3 Days / 2 Nights",
+                  "highlights": ["Visit Gol Gumbaz", "Explore Ibrahim Rouza", "Discover Bijapur Fort"],
+                  "activities": ["Sightseeing", "Cultural Exploration", "Photography"],
+                  "package_details": "Visit the historical city of Bijapur, famous for its magnificent Mughal-era architecture and the iconic Gol Gumbaz.",
+                  "popular": true,
+                  "select_Transport":"train"
+                },
+                {
+                  "id": 41,
+                  "city": "Jaipur",
+                  "company": "Jaipur Tour Packages",
+                  "route": "Jaipur - Pushkar",
+                  "price": 4999,
+                  "images": [
+                    "https://upload.wikimedia.org/wikipedia/commons/a/af/Pushkar_Temple.jpg",
+                    "https://upload.wikimedia.org/wikipedia/commons/c/c3/Pushkar_Lake_in_Rajasthan.jpg"
+                  ],
+                  "duration": "3 Days / 2 Nights",
+                  "highlights": ["Visit Pushkar Lake", "Explore Brahma Temple", "Discover Pushkar Bazaar"],
+                  "activities": ["Cultural Exploration", "Shopping", "Sightseeing"],
+                  "package_details": "A spiritual journey to Pushkar, known for its sacred lake and temples, and a vibrant bazaar.",
+                  "popular": true,
+                  "select_Transport":"train"
+        
+                },
+                {
+                  "id": 42,
+                  "city": "Jaipur",
+                  "company": "Jaipur Tour Packages",
+                  "route": "Jaipur - Jodhpur",
+                  "price": 6999,
+                  "images": [
+                    "https://upload.wikimedia.org/wikipedia/commons/3/35/Jodhpur.jpg",
+                    "https://upload.wikimedia.org/wikipedia/commons/f/fb/Mehrangarh_Fort_Jodhpur.jpg"
+                  ],
+                  "duration": "4 Days / 3 Nights",
+                  "highlights": ["Visit Mehrangarh Fort", "Explore Jaswant Thada", "Sightseeing at Clock Tower Market"],
+                  "activities": ["Sightseeing", "Cultural Exploration", "Photography"],
+                  "package_details": "A royal tour of Jodhpur, with visits to forts, palaces, and bustling markets showcasing the vibrant Rajasthani culture.",
+                  "popular": true,
+                  "select_Transport":"train"
+                },
+                {
+                  "id": 43,
+                  "city": "Jaipur",
+                  "company": "Jaipur Tour Packages",
+                  "route": "Jaipur - Udaipur",
+                  "price": 7999,
+                  "images": [
+                    "https://upload.wikimedia.org/wikipedia/commons/5/59/Udaipur_Fort.jpg",
+                    "https://upload.wikimedia.org/wikipedia/commons/9/96/Udaipur_Lake_Palace.jpg"
+                  ],
+                  "duration": "4 Days / 3 Nights",
+                  "highlights": ["Visit City Palace", "Explore Jag Mandir", "Boat Ride on Lake Pichola"],
+                  "activities": ["Sightseeing", "Boat Ride", "Cultural Exploration"],
+                  "package_details": "Explore the romantic city of Udaipur, famous for its palaces, lakes, and vibrant Rajasthani heritage.",
+                  "popular": true,
+                  "select_Transport":"train"
+                },
+                {
+                  "id": 44,
+                  "city": "Jaipur",
+                  "company": "Jaipur Tour Packages",
+                  "route": "Jaipur - Agra",
+                  "price": 6999,
+                  "images": [
+                    "https://upload.wikimedia.org/wikipedia/commons/1/1e/Amber_Fort_Jaipur.jpg",
+                    "https://upload.wikimedia.org/wikipedia/commons/e/ec/Taj_Mahal_Agra.jpg"
+                  ],
+                  "duration": "3 Days / 2 Nights",
+                  "highlights": ["Visit Amber Fort", "Explore Hawa Mahal", "Visit Taj Mahal"],
+                  "activities": ["Sightseeing", "Cultural Exploration", "Photography"],
+                  "package_details": "A combination tour of Jaipur and Agra, with visits to Amber Fort, Hawa Mahal, and the iconic Taj Mahal.",
+                  "popular": true,
+                  "select_Transport":"train"
+                },
+                {
+                  "id": 45,
+                  "city": "Jaipur",
+                  "company": "Jaipur Tour Packages",
+                  "route": "Jaipur - Jaisalmer",
+                  "price": 7999,
+                  "images": [
+                    "https://upload.wikimedia.org/wikipedia/commons/f/ff/Jaisalmer_Fort.jpg",
+                    "https://upload.wikimedia.org/wikipedia/commons/c/c9/Jaisalmer.jpg"
+                  ],
+                  "duration": "4 Days / 3 Nights",
+                  "highlights": ["Visit Jaisalmer Fort", "Camel Safari in Desert", "Explore Patwon Ki Haveli"],
+                  "activities": ["Camel Safari", "Sightseeing", "Cultural Exploration"],
+                  "package_details": "A desert adventure in Jaisalmer, famous for its golden fort, desert safaris, and historical havelis.",
+                  "popular": true,
+                  "select_Transport":"train"
+                }
+              ]
+              
+          
+      
+  

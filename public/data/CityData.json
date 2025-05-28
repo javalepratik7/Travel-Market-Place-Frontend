@@ -1,0 +1,57 @@
+[
+    {
+      "id": 1,
+      "image": "https://princetravels.net/wp-content/uploads/2020/04/1520580692_1520497807_33012551555_74155cad39_k.jpg.jpg.jpg",
+      "city": "Pune",
+      "details": "Pune Tour Packages, Adventure Tours, Pune-Goa Route"
+    },
+    {
+      "id": 2,
+      "image": "https://www.fabhotels.com/blog/wp-content/uploads/2018/11/1000x650-252.jpg",
+      "city": "Mumbai",
+      "details": "Mumbai Tour Packages, City Explorers, Mumbai-Goa Route"
+    },
+    {
+      "id": 3,
+      "image": "https://www.tripsavvy.com/thmb/pAlZ4kx0tM9HFLmgkYbqMlfxaok=/2116x1417/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-846359134-5b515328c9e77c003738e40c.jpg",
+      "city": "Delhi",
+      "details": "Delhi Tour Packages, Heritage Trips, Delhi-Jaipur Route"
+    },
+    {
+      "id": 4,
+      "image": "https://static-blog.treebo.com/blog/wp-content/uploads/2018/01/The-ISKCON-Bangalore.jpg",
+      "city": "Bangalore",
+      "details": "Bangalore Tour Packages, Nature Trails, Bangalore-Mysore Route"
+    },
+    {
+      "id": 5,
+      "image": "https://chennaitourism.travel/images/places-to-visit/headers/kapaleeswarar-temple-chennai-tourism-entry-fee-timings-holidays-reviews-header.jpg",
+      "city": "Chennai",
+      "details": "Chennai Tour Packages, Coastal Getaways, Chennai-Pondicherry Route"
+    },
+    {
+      "id": 6,
+      "image": "https://tse3.mm.bing.net/th?id=OIP.VYGwNHU_3pmFThC33n--cAHaE8&pid=Api&P=0&h=180",
+      "city": "Hyderabad",
+      "details": "Hyderabad Tour Packages, Royal Journeys, Hyderabad-Goa Route"
+    },
+    {
+      "id": 7,
+      "image": "https://www.mistay.in/travel-blog/content/images/2023/03/KOLKATA.jpg",
+      "city": "Kolkata",
+      "details": "Kolkata Tour Packages, Mountain Treks, Kolkata-Darjeeling Route"
+    },
+    {
+      "id": 8,
+      "image": "https://www.tripsavvy.com/thmb/_wgidcLzUefiil4U1xNgv-YG18E=/3865x2576/filters:no_upscale():max_bytes(150000):strip_icc()/facade-of-the-hawa-mahal-palace-of-winds-in-jaipur-rajasthan-india-636950806-58e24eed5f9b58ef7e556bbb.jpg",
+      "city": "Jaipur",
+      "details": "Jaipur Tour Packages, Desert Adventures, Jaipur-Udaipur Route"
+    },
+    {
+      "id": 9,
+      "image": "https://images.herzindagi.info/image/2018/Aug/goa-monsoon-travel-article.jpg",
+      "city": "Goa",
+      "details": "Goa Tour Packages, Beach Holidays, Goa Sightseeing"
+    }
+  ]
+  
